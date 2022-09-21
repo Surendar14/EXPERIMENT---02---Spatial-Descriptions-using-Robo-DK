@@ -55,6 +55,8 @@ Tip: Select Tools>Options>Display>Display XYZ axis letters to see the Coordinate
 
 ### FIGURE -02
 If more than one reference frame is used, it is possible to drag and drop them inside the Station Tree to match the dependency that exists in the real setup. For example, the reference Frame 2 may be placed with respect to the robot base reference. In this case, if the UR10 Base reference is moved, the Frame 2 is also moved with it. It is important to consider this if other robots or reference frames are used. The next image shows the difference in dependency.
+
+
 ![3](https://user-images.githubusercontent.com/75235759/191423715-5582cc00-14cd-4d21-8684-839f1917ca56.png)
 
 ### FIGURE -03
