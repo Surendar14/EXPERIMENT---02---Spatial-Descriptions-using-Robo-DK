@@ -148,19 +148,6 @@ def Prog1():
   
 Prog1()
 ```
-### COORDINATES OF THE MOVEMENTS: 
-#### Coordinate 1
-![9](https://user-images.githubusercontent.com/75235759/191423922-24075164-c59f-4004-8b19-e4cbc156a6e9.png)
-
-#### Coordinate 2
-![10](https://user-images.githubusercontent.com/75235759/191423946-a6555286-803e-4e90-8e0b-312eed10814e.png)
-
-#### Coordinate 3
-![11](https://user-images.githubusercontent.com/75235759/191423966-39705013-58f2-42fc-8f59-62b4c02d6299.png)
-
-#### Coordinate 4
-![12](https://user-images.githubusercontent.com/75235759/191424002-2cedafb6-5f3b-4d84-b7bc-04e75e89f005.png)
-
 
 ### SIMULATION RESULTS :
 
